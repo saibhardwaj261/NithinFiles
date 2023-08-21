@@ -1,5 +1,5 @@
 
-public class Arrayeo 
+public class Arrayeo
 {
 	public static void main(String args[])
 	{
